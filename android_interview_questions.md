@@ -8,7 +8,7 @@
 
 > Android Interview Questions and Answers - Your Cheat Sheet For Android Interview
 
-### Prepared and maintained by [Surajkaran](https://github.com/surajkaran04) - Coder | Teacher | Mentor | Open Source | IIT 2010-14
+### Prepared and maintained by [Surajkaran](https://github.com/surajkaran04) - Coder | Teacher | Mentor | Open Source
 
 ## About me
 
